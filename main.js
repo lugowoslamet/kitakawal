@@ -8,7 +8,7 @@ let margin = {
     left: 70,
     right: 40
 };
-
+ 
 let tooltip = d3.select(`#test`)
                 .append("div")
                 .style("position", "fixed")
