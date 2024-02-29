@@ -7,7 +7,7 @@ let margin = {
     bottom: 40,
     left: 70,
     right: 40
-};
+}; 
  
 let tooltip = d3.select(`#test`)
                 .append("div")
